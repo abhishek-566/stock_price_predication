@@ -1,2 +1,2 @@
-stock_price_predication
+Stock Price Predication
 Using Machine Learning algorithms
